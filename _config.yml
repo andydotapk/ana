@@ -1,5 +1,5 @@
 # Site
-title:              Massively
+title:              Analogger
 bio:                'Jekyll version of the Massively theme by HTML5UP'
 description:        "Jekyll version of the Massively theme by HTML5UP"
 locale:             en_US
@@ -14,7 +14,7 @@ analytics-id:       "default"
 twitter:            default
 facebook:           default
 instagram:          default
-github:             default
+github:             andydotapk
 
 # personal
 location:           Los Angeles, CA
